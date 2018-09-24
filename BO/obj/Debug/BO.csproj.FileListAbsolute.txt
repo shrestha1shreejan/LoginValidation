@@ -1,0 +1,9 @@
+D:\IMCS\Azure\WebApplication1\BO\obj\Debug\BO.csprojAssemblyReference.cache
+D:\IMCS\Azure\WebApplication1\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\IMCS\Azure\WebApplication1\BO\bin\Debug\BO.dll
+D:\IMCS\Azure\WebApplication1\BO\bin\Debug\BO.pdb
+D:\IMCS\Azure\WebApplication1\BO\bin\Debug\TYPES.dll
+D:\IMCS\Azure\WebApplication1\BO\bin\Debug\TYPES.pdb
+D:\IMCS\Azure\WebApplication1\BO\obj\Debug\BO.csproj.CopyComplete
+D:\IMCS\Azure\WebApplication1\BO\obj\Debug\BO.dll
+D:\IMCS\Azure\WebApplication1\BO\obj\Debug\BO.pdb

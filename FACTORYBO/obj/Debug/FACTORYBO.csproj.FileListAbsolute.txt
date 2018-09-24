@@ -1,0 +1,11 @@
+D:\IMCS\Azure\WebApplication1\FACTORYBO\obj\Debug\FACTORYBO.csproj.CoreCompileInputs.cache
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\FACTORYBO.dll
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\FACTORYBO.pdb
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\BO.dll
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\TYPES.dll
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\BO.pdb
+D:\IMCS\Azure\WebApplication1\FACTORYBO\bin\Debug\TYPES.pdb
+D:\IMCS\Azure\WebApplication1\FACTORYBO\obj\Debug\FACTORYBO.csprojAssemblyReference.cache
+D:\IMCS\Azure\WebApplication1\FACTORYBO\obj\Debug\FACTORYBO.csproj.CopyComplete
+D:\IMCS\Azure\WebApplication1\FACTORYBO\obj\Debug\FACTORYBO.dll
+D:\IMCS\Azure\WebApplication1\FACTORYBO\obj\Debug\FACTORYBO.pdb

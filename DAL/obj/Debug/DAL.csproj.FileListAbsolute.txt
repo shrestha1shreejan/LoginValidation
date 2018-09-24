@@ -1,0 +1,13 @@
+D:\IMCS\Azure\WebApplication1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\DAL.dll
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\DAL.pdb
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\BO.dll
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\FACTORYBO.dll
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\TYPES.dll
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\BO.pdb
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\FACTORYBO.pdb
+D:\IMCS\Azure\WebApplication1\DAL\bin\Debug\TYPES.pdb
+D:\IMCS\Azure\WebApplication1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\IMCS\Azure\WebApplication1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\IMCS\Azure\WebApplication1\DAL\obj\Debug\DAL.dll
+D:\IMCS\Azure\WebApplication1\DAL\obj\Debug\DAL.pdb

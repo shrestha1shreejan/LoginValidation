@@ -1,0 +1,6 @@
+D:\IMCS\Azure\WebApplication1\TYPES\bin\Debug\TYPES.dll
+D:\IMCS\Azure\WebApplication1\TYPES\bin\Debug\TYPES.pdb
+D:\IMCS\Azure\WebApplication1\TYPES\obj\Debug\TYPES.csprojAssemblyReference.cache
+D:\IMCS\Azure\WebApplication1\TYPES\obj\Debug\TYPES.csproj.CoreCompileInputs.cache
+D:\IMCS\Azure\WebApplication1\TYPES\obj\Debug\TYPES.dll
+D:\IMCS\Azure\WebApplication1\TYPES\obj\Debug\TYPES.pdb
